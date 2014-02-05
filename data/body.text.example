@@ -3,15 +3,14 @@ Welcome to One Education!
 If you are receiving this email it means that you have begun your One Academy training.
 If this is not true, please ignore this email.
 
-When you have completed your One Academy training, we will send you a certificate to show that you are XO-Certified!
+When you have completed your One Academy training, we will send you a certificate!
 In order to do this, we need to verify your account. Please follow the steps below.
 
 Launch your One Academy activity, make sure that your name appears in the bottom right of the screen.
 If your name does not appear, insert your USB stick and change to your profile.
-When your name appears, look for an ID code in the bottom left of the screen.
-It will look similar to this: "{0}".
+When your name appears, look in the bottom left of the screen for this ID code: "{0}".
 
-Once you have the ID code code, please click on this link, and enter your code into the form to verify your account: https://localhost:8888/training/confirm/{1}
+If your ID code matches up, click the following link: https://localhost:8888/training/confirm/{1}
 
 Thanks for your time,
 We are very pleased to have you onboard!
